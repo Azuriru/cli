@@ -1,5 +1,11 @@
 # sv
 
+## 0.15.4
+### Patch Changes
+
+
+- fix: community add-on template imports `expect` from `vitest` ([#1090](https://github.com/sveltejs/cli/pull/1090))
+
 ## 0.15.3
 ### Patch Changes
 
